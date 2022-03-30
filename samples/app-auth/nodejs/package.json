@@ -45,7 +45,7 @@
     "gulp-tslint": "^7.1.0",
     "gulp-typescript": "^5.0.1",
     "gulp-zip": "^4.0.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "tslint": "^5.20.1",
     "typescript": "^3.8.3"
   }
