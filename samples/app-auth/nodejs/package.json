@@ -23,7 +23,7 @@
     "body-parser": "^1.18.2",
     "botbuilder": "^4.8.0",
     "botbuilder-dialogs": "^4.8.0",
-    "config": "^1.30.0",
+    "config": "^3.3.8",
     "express": "^4.16.2",
     "express-handlebars": "^3.0.0",
     "querystring": "^0.2.0",
